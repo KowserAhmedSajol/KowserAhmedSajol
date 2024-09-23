@@ -1,6 +1,7 @@
-![I am a Laravel Developer.]([https://media.licdn.com/dms/image/D5616AQEwKFu10Drsfw/profile-displaybackgroundimage-shrink_350_1400/0/1686665587332?e=1692835200&v=beta&t=-1xUV-mE0RNPovOK-CiNoJBmPKG265QTXuXYlr93yVs](https://ibb.co.com/6vdjbBs))
+![I am a Laravel Developer.](https://i.ibb.co.com/VHKfDmB/Green-and-Yellow-Illustrative-Congratulation-Banner-Landscape.png)
 ### Hi there 😊, My name is Kowser Ahmed Sajol.
 #### I am a Laravel Developer.
+![alt text](https://www.identixweb.com/wp-content/uploads/2019/03/URL-Short-Link-Generator.png)
 
 
 I'm a backend developer who is passionate about making error free website with 100% client satisfaction. I have a passion for learning and sharing my knowledge as publicly as possible. I love to solve real world problem. I am strategic, goal-oriented, and always work with an end goal in my mind. I pride myself on doing quality work and maintain excellent communication. Most of the time I work with Laravel, but I also enjoy working with React js, Wordpress, JavaScript etc.
