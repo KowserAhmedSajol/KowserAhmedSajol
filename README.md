@@ -18,7 +18,9 @@ Others: AJAX, JSON, REST APIs, WordPress, Git, MySQL
 
 
 🎓 Currently a Master’s student in RCSE ( Research in Software and System Engineering ) in Germany 🇩🇪
+
 🔍 Actively looking for Werkstudent / Part-time / Internship opportunities
+
 🌱 Continuously improving my skills in Vue.js, Laravel, and Python
 🤔 Exploring advanced patterns and best practices in Vue.js
 💬 Ask me about Vue.js, Laravel, Full-Stack Web Development
