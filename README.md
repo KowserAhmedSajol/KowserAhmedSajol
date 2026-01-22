@@ -11,12 +11,12 @@ I’m a full-stack web developer and Research in Computer and Systems Engineerin
 I strongly value code quality, maintainability, and clear communication. I’m strategic, goal-oriented, and always work with a clear end goal in mind. I love learning new technologies and sharing knowledge whenever possible.
 While I have solid professional experience with Laravel on the backend, I work extensively with Vue.js, which is my preferred framework for building modern, reactive frontends. I also use Python for scripting, automation, and backend-related tasks. I enjoy working across the full stack and continuously improving my skills.
 
-🛠 Tech Stack & Skills
+## 🛠 Tech Stack & Skills
 - Frontend: HTML, CSS, JavaScript, Vue.js, React, Bootstrap, Tailwind CSS
 - Backend: PHP (Laravel), Python
 - Others: AJAX, JSON, REST APIs, WordPress, Git, MySQL
 
-
+## 🎓 About Me
 - 🎓 Currently a Master’s student in RCSE (Research in Software and System Engineering) in Germany 🇩🇪
 - 🔍 Actively looking for Werkstudent / Part-time / Internship opportunities
 - 🌱 Continuously improving my skills in Vue.js, Laravel, and Python
