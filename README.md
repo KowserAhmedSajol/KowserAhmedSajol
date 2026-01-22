@@ -17,15 +17,13 @@ Backend: PHP (Laravel), Python
 Others: AJAX, JSON, REST APIs, WordPress, Git, MySQL
 
 
-🎓 Currently a Master’s student in RCSE ( Research in Software and System Engineering ) in Germany 🇩🇪
-
-🔍 Actively looking for Werkstudent / Part-time / Internship opportunities
-
-🌱 Continuously improving my skills in Vue.js, Laravel, and Python
-🤔 Exploring advanced patterns and best practices in Vue.js
-💬 Ask me about Vue.js, Laravel, Full-Stack Web Development
-📫 Reach me via email or GitHub
-⚡ Fun fact: I enjoy building frontends with Vue.js the most 😄
+- 🎓 Currently a Master’s student in RCSE (Research in Software and System Engineering) in Germany 🇩🇪
+- 🔍 Actively looking for Werkstudent / Part-time / Internship opportunities
+- 🌱 Continuously improving my skills in Vue.js, Laravel, and Python
+- 🤔 Exploring advanced patterns and best practices in Vue.js
+- 💬 Ask me about Vue.js, Laravel, Full-Stack Web Development
+- 📫 Reach me via email or GitHub
+- ⚡ Fun fact: I enjoy building frontends with Vue.js the most 😄
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/KowserAhmedSajol)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/kowser-ahmed-sajol-8386bb265//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/KowserAhmedSajol/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/kowserahmedsajol//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://main--helpful-malasada-165c09.netlify.app/)  
