@@ -5,7 +5,9 @@
 
 Full-Stack Web Developer | Vue.js • Laravel • Python
 🎓 M.Sc. Student (RCSE) | Actively seeking Werkstudent / Part-time / Internship roles
+
 I’m a full-stack web developer and Research in Computer and Systems Engineering (RCSE) master’s student, passionate about building clean, scalable, and reliable web applications. I enjoy solving real-world problems and turning ideas into efficient, user-friendly software.
+
 I strongly value code quality, maintainability, and clear communication. I’m strategic, goal-oriented, and always work with a clear end goal in mind. I love learning new technologies and sharing knowledge whenever possible.
 While I have solid professional experience with Laravel on the backend, I work extensively with Vue.js, which is my preferred framework for building modern, reactive frontends. I also use Python for scripting, automation, and backend-related tasks. I enjoy working across the full stack and continuously improving my skills.
 
