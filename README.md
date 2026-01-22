@@ -12,9 +12,9 @@ I strongly value code quality, maintainability, and clear communication. I’m s
 While I have solid professional experience with Laravel on the backend, I work extensively with Vue.js, which is my preferred framework for building modern, reactive frontends. I also use Python for scripting, automation, and backend-related tasks. I enjoy working across the full stack and continuously improving my skills.
 
 🛠 Tech Stack & Skills
-Frontend: HTML, CSS, JavaScript, Vue.js, React, Bootstrap, Tailwind CSS
-Backend: PHP (Laravel), Python
-Others: AJAX, JSON, REST APIs, WordPress, Git, MySQL
+- Frontend: HTML, CSS, JavaScript, Vue.js, React, Bootstrap, Tailwind CSS
+- Backend: PHP (Laravel), Python
+- Others: AJAX, JSON, REST APIs, WordPress, Git, MySQL
 
 
 - 🎓 Currently a Master’s student in RCSE (Research in Software and System Engineering) in Germany 🇩🇪
